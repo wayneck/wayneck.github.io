@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: wayneck.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
@@ -92,11 +92,12 @@ page-mathjax: false
 friends:
   [
     { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     { title: "Kun Qian", href: "http://kunq.me" },
     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
     { title: "SmdCn", href: "http://blog.smdcn.net" },
     { title: "JiyinYiyong", href: "http://tiye.me/" },
     { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+
+    { title: " <br> 访问人数 <br> ", href: "https://komarev.com/ghpvc/?username=wayneck" },
   ]
+
