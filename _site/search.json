@@ -1,0 +1,91 @@
+[
+  
+    {
+      "title"    : "作为思想家，@安之 的几乎每一个回答，只有我自己吗？",
+      "subtitle" : "Taking this chance to reflect on myself",
+      "tags"     : "随笔, Meta",
+      "url"      : "/2024/02/10/reflection-2020/",
+      "date"     : "2024-02-10 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "Data Representation - Floating Point Numbers",
+      "subtitle" : "「数据表示」浮点数",
+      "tags"     : "笔记, 基础, C, C++",
+      "url"      : "/2020/06/21/data-rep-float/",
+      "date"     : "2020-06-21 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "Data Representation - Integer",
+      "subtitle" : "「数据表示」整数",
+      "tags"     : "笔记, 基础, C, C++",
+      "url"      : "/2020/06/19/data-rep-int/",
+      "date"     : "2020-06-19 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "My Programming Languages Spectrum",
+      "subtitle" : "我的编程语言光谱",
+      "tags"     : "",
+      "url"      : "/2020/05/05/pl-chart/",
+      "date"     : "2020-05-05 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "React Hooks 是否可以改为用类似 Vue 3 Composition API 的方式实现？",
+      "subtitle" : "Thinking in React vs. Thinking in Vue",
+      "tags"     : "知乎, Web, React",
+      "url"      : "/2020/02/18/react-hooks-vue-composition/",
+      "date"     : "2020-02-18 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-QC」2 TypeClasses",
+      "subtitle" : "Quickcheck - A Tutorial on Typeclasses in Coq",
+      "tags"     : "SF (软件基础), QC (Quickcheck), Coq, 笔记",
+      "url"      : "/2019/09/02/sf-qc-02-typeclasses/",
+      "date"     : "2019-09-02 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-PLF」3 Hoare2",
+      "subtitle" : "Programming Language Foundations - Hoare Logic, Part II",
+      "tags"     : "SF (软件基础), PLF (编程语言基础), Coq, 笔记",
+      "url"      : "/2019/03/03/sf-plf-03-hoare-2/",
+      "date"     : "2019-03-03 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-PLF」2 Hoare",
+      "subtitle" : "Programming Language Foundations - Hoare Logic, Part I ",
+      "tags"     : "SF (软件基础), PLF (编程语言基础), Coq, 笔记",
+      "url"      : "/2019/03/02/sf-plf-02-hoare-1/",
+      "date"     : "2019-03-02 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」3 List",
+      "subtitle" : "Logical Foundations - Working with Structured Data",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/03/sf-lf-03-list/",
+      "date"     : "2019-01-03 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」2 Induction",
+      "subtitle" : "Logical Foundations - Proof by Induction",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/02/sf-lf-02-induction/",
+      "date"     : "2019-01-02 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」1 Basics",
+      "subtitle" : "Logical Foundations - Functional Programming in Coq",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/01/sf-lf-01-basics/",
+      "date"     : "2019-01-01 00:00:00 +0800"
+    } 
+  
+]
