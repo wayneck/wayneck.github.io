@@ -24,15 +24,15 @@ I studied BA, Digital Media Art at [Communication University of China](https://e
 - [CSS Still Sucks 2015][2] · 2015
 - [JavaScript Modularization Journey][1] · 2015
 
-[1]: //wayneck.me/2015/07/09/js-module-7day/
-[2]: //wayneck.me/2015/12/28/css-sucks-2015/
-[3]: //wayneck.me/2016/06/05/pwa-in-my-pov/
-[4]: //wayneck.me/2016/10/20/pwa-qcon2016/
-[5]: //wayneck.me/2016/11/20/sw-101-gdgdf/
+[1]: //wayneck.github.io/2015/07/09/js-module-7day/
+[2]: //wayneck.github.io/2015/12/28/css-sucks-2015/
+[3]: //wayneck.github.io/2016/06/05/pwa-in-my-pov/
+[4]: //wayneck.github.io/2016/10/20/pwa-qcon2016/
+[5]: //wayneck.github.io/2016/11/20/sw-101-gdgdf/
 [6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
 [7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
 [8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //wayneck.me/jsconfcn2017/
+[9]: //wayneck.github.io/jsconfcn2017/
 [10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
 [11]: https://youtu.be/lGEMwh32soc
 [12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
