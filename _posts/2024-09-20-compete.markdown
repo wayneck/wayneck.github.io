@@ -1,0 +1,45 @@
+---
+layout:     post
+title:      "Play Game with yong gus"
+subtitle:   " \"50队现场比赛\""
+date:       2024-09-20 22:33:33
+author:     "Wayne"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 随笔
+    - 笔记
+---
+
+> “WH，Time 8：40-11：00 ”
+
+
+[ 比赛 ](#比赛)
+
+环境氛围到了，误入年青人群体，紧张一下，烧一下荷尔蒙。
+
+<p id = "迷失"></p>
+
+## 比赛
+
+一个目标识别的比赛，将近50个队参加，好几个大学都是3队参加，还好比赛方限制了一下不然他们敢上10个:scream:	😱，
+所有的准备再完善，也有临场突发:scream_cat:	🙀，玩的就是心理，紧张，选哪个方案flushed:	😳 ？不是会不会，是在压力环境下，做正确的选择，更多需要熟练的肌肉记忆。肌肉的经验在这种环境下是人的依赖。
+
+
+一个人一支队，流水一下事件：
+
+1. 分析数据，start up
+2. 调整模型
+3. 研究改进策略
+4. 数据增强
+5. train , recycle
+6. 编写分析报告 
+7. 杂项tag，cd，etc...
+8. 开始，8.20闹肚子了 :cold_sweat:	😰 ，结果2分钟跑完，提交格式不对，怎么改？手动填写，写了10个太慢了，半小时过去了。写程序吧，结果出来了，排序不对，excel手改，名称不对再改。
+刻录，提交，排队，没内容。。。
+队友带的CD呢？”丢在宾馆房间了“。。。。。
+脑子有点紧张忘了几分钟，拿回来了，再刻录。
+赶紧去交，收结果的打印机坏了，说打印2份就要死机reboot一下，so first  copy guys's cd to a computer,then print together.
+Review the resualts for some subjects.
+Over. 
+结束时1点多了，5个小时，紧张忙碌转眼即失，waiting for resualt...
