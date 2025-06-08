@@ -1,0 +1,68 @@
+---
+layout:     post
+title:      "BAAI 7th"
+subtitle:   " \"2025第7届--智源大会\""
+date:       2025-06-06 21:45:03
+author:     "Wayne"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - LLM Agent
+    - LLM 未来发展
+---
+
+> “Llm-Agent  Development  &  Future”
+
+
+[ 感知的来源 ](#感知的来源)
+[ 多智能体的一些想法 ](#多智能体的一些想法)
+[ 智能体研究发展 ](#智能体)
+
+大模型作为基础组件的角色和定位，越来越被人所认识到，直接作为应用对于多数人来说，算是个高级点的搜索引擎，再进一步的智能水平的应用是难以体会到的，这方面需要Agent作为达模型的终端应用来展现给用户。
+
+
+![](http://wayneck.github.io/img/blog-sidebar.jpg)
+
+<p id = "感知的来源"></p>
+
+## 感知的来源
+
+按照几年前对智能体的定义，感知-->规划-->决策-->执行，3或4步操作流程形成智能体的概括，。
+全部数据来源于感知，哪些数据是有用的，哪些是没用的，判断标准是什么---经验，人类对现有世界环境的生存的经验。
+这对AI智能体来说，通用适用吗？   
+
+![](http://wayneck.github.io/img/baai2025/era_of_experience.png)    
+Dr. Rich Sutton从根本开始提出并考虑问题，结合当前达模型技术的encode,decode技术，这对于Agent来说充满未知的期待。     
+！[What are entering The Ero of Exerience?](http://wayneck.github.io/img/baai2025/source_of_data.png)    
+![one Goal or many Goals](http://wayneck.github.io/img/baai2025/era_of_experience.png)
+社会，群体，合作产生了什么？        
+![Success or Failures](http://wayneck.github.io/img/baai2025/cooeration.png)     
+当今社会正在面临的处境--挣扎！！    
+![Struggle](http://wayneck.github.io/img/baai2025/source_of_data.png)    
+
+
+<p id = "多智能体的一些想法"></p>
+
+## 多智能体的一些想法
+
+![大模型群体协作高效化](http://wayneck.github.io/img/baai2025/qingc.png)     
+1+1>2?  what dose there lead to ?   
+![多智能体协作的代价](http://wayneck.github.io/img/baai2025/mul_agent_cost.png)      
+HOW to do something with these?     
+![conmunicate,router,try](http://wayneck.github.io/img/baai2025/solve_director.png)      
+The information between conmunication,people's language or not?     
+![Machine's language](http://wayneck.github.io/img/baai2025/machine_la.png)      
+
+<p id = "一些方向"></p>
+
+## 一些方向     
+
+怎样获取更精确的知识？
+单轮检索--多伦检索---自适应检索     
+寻因的一种方法      
+对某个问题，让达模型输出，理解改问题，解答改问题的图过程。     
+文本压缩手段        
+Doc.file ---> para ---> Sent ---> Entity    
+
+
+
