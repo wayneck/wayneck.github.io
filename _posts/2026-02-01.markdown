@@ -1,0 +1,81 @@
+---
+layout:     post
+title:      "3分钟舞台，一个生态群"
+subtitle:   " \"舞台  孩子  利益\""
+date:       2026-02-01 21:45:03
+author:     "Wayne"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Step
+    - Child 
+    - Money
+---
+
+> “It's raining form 4th to 9th,and the whole north place is affected by the rain.”
+
+
+[ 门外 ](#门外)
+[ 门里 ](#门里)
+[ 台下 ](#台下)
+[ 台上 ](#台上)
+
+’投入，坚持，时间‘换来的是什么，这是个很简单的问题，可以掌握某项技能，可以获得享受生活，可以挣些钱....
+
+
+![](http://wayneck.github.io/img/blog-sidebar.jpg)
+
+<p id = "门外"></p>
+
+## 门外
+
+外面竖着一些彩旗，大该有30多米，路边停了不少车，有本地的，外地的，私家车，大巴车。
+门口放了两个印有大LOGO的牌子留影，拍照，到的时候12点多一点，有些表演结束的小朋友，身着漂亮的演出服，已经出俩，或跟着大人，或5,8个人成群一起，表情都还算开心，兴奋。
+
+![](http://wayneck.github.io/img/baai2025/era_of_experience.png)    
+Dr. Rich Sutton从根本开始提出并考虑问题，结合当前达模型技术的encode,decode技术，这对于Agent来说充满未知的期待。     
+！[What are entering The Ero of Exerience?](http://wayneck.github.io/img/baai2025/source_of_data.png)    
+![one Goal or many Goals](http://wayneck.github.io/img/baai2025/era_of_experience.png)
+社会，群体，合作产生了什么？        
+![Success or Failures](http://wayneck.github.io/img/baai2025/cooeration.png)     
+当今社会正在面临的处境--挣扎！！    
+![Struggle](http://wayneck.github.io/img/baai2025/source_of_data.png)    
+
+
+<p id = "门内"></p>
+
+## 门内
+
+![大模型群体协作高效化](http://wayneck.github.io/img/baai2025/qingc.png)     
+1+1>2?  what dose there lead to ?   
+![多智能体协作的代价](http://wayneck.github.io/img/baai2025/mul_agent_cost.png)      
+HOW to do something with these?     
+![conmunicate,router,try](http://wayneck.github.io/img/baai2025/solve_director.png)      
+The information between conmunication,people's language or not?     
+![Machine's language](http://wayneck.github.io/img/baai2025/machine_la.png)      
+
+<p id = "台下"></p>
+
+## 台下     
+
+怎样获取更精确的知识？
+单轮检索--多伦检索---自适应检索     
+寻因的一种方法      
+对某个问题，让达模型输出，理解改问题，解答改问题的图过程。     
+文本压缩手段        
+Doc.file ---> para ---> Sent ---> Entity    
+
+
+
+<p id = "台上"></p>
+
+## 台上     
+
+怎样获取更精确的知识？
+单轮检索--多伦检索---自适应检索     
+寻因的一种方法      
+对某个问题，让达模型输出，理解改问题，解答改问题的图过程。     
+文本压缩手段        
+Doc.file ---> para ---> Sent ---> Entity    
+
+
